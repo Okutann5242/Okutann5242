@@ -10,10 +10,11 @@
 <br/>
 
 <!-- Sosyal Medya İkonları (Linkleri kendi profillerinle güncelle) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senin-linkedin-hesabin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senin.email@adresin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratokutan897@gmail.com)
+<!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=dev.to&logoColor=white)](https://senin-portfolyon.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senin-linkedin-hesabin)
+-->
 </div>
 <!-- HEADER BİTİŞİ -->
 
@@ -52,13 +53,6 @@ Teknoloji dünyasındaki vizyonum, karmaşık iş süreçlerini (örneğin envan
       <b>Ticari Yazılım Çözümleri</b><br/>
       <p align="left">Mağaza, restoran ve KOBİ'ler için POS, adisyon ve yapay zeka destekli envanter takip sistemleri tasarlayarak işletmelerin dijitalleşmesine öncülük ediyorum.</p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/808/808476.png" width="80px;" alt="Game Dev"/>
-      <br/><br/>
-      <b>Simülasyon & Oyun Geliştirme</b><br/>
-      <p align="left">Unity ve C# yeteneklerimle, oyuncu etkileşimli nesne mekanikleri, envanter sistemleri ve harita generatörleri (Ranch Simulator tarzı) yaratıyorum.</p>
-    </td>
-  </tr>
 </table>
 
 <br/>
@@ -110,11 +104,6 @@ Geliştirdiğim çözümlerde modern ve sektör standartlarındaki araçları ku
 * **Ne İşe Yarar?** Kullanıcılar mağaza açıp satış yaparken, aynı zamanda platforma entegre özel eğitim modüllerine erişim sağlayabilirler.
 * **Teknik Detay:** Çoklu kullanıcı rolleri (Multi-tenant architecture), ürün yönetimi ve eğitim yönetim sisteminin (LMS) başarılı entegrasyonu.
 
-### 🎮 3. Ranch-Style Simulation Game
-* **Konsept:** Unity motoru üzerinde geliştirilen birinci şahıs çiftlik/yaşam simülasyonu.
-* **Ne İşe Yarar?** Oyuncuların eşyalarla etkileşime girebildiği, dinamik harita üretimi olan, detaylı envanter çarkına sahip zengin bir oyun deneyimi sunar.
-* **Teknik Detay:** Gelişmiş C# scriptleri, nesne etkileşim (Raycast) mekanikleri ve modüler envanter sistemi.
-
 ### 🧾 4. POS & Adisyon Sistemleri (Work In Progress)
 * **Konsept:** Restoran, mağaza ve perakende sektörü için hızlı ve güvenilir sipariş/ödeme yönetim aracı.
 * **Ne İşe Yarar?** Çalışanların kolayca adisyon açmasını, siparişleri mutfağa veya depoya iletmesini ve hızlı ödeme almasını sağlar.
@@ -153,7 +142,8 @@ Bir projeniz için sağlam bir backend altyapısı kurmak, mevcut sistemlerinizi
 
 | İletişim Kanalı | Bağlantı |
 | :---: | :--- |
-| 📧 **E-Posta** | `senin.email@adresin.com` adresinden bana doğrudan yazabilirsiniz. |
+| 📧 **E-Posta** | `beratokutan897@gmail.com` adresinden bana doğrudan yazabilirsiniz. |
+<!--
 | 💼 **LinkedIn** | Kariyer yolculuğumu ve profesyonel ağımı [LinkedIn profilimden](#) inceleyebilirsiniz. |
 | 🌐 **Portfolyo** | Diğer tasarımlarım ve projelerim için [Kişisel Web Sitemi](#) ziyaret edebilirsiniz. |
 
